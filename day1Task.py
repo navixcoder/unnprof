@@ -15,6 +15,7 @@ class Student:
         print("Marks:", self.marks)
 
     def update_grade(self, new_grade):
+    
         self.grade = new_grade
 
 s1 = Student("raj", 15, 10, "A", {"maths": 85, "science": 90, "english": 80})
@@ -24,19 +25,7 @@ s1.display_report_card()
 s2.display_report_card()
 s3.display_report_card()
 
-print("\n___Report Card___")
-print("Name:", s2.name)
-print("Age:", s2.age)
-print("Grade:", s2.grade)
-print("Section:", s2.section)
-print("Marks:", s2.marks)   
 
-print("\n___Report Card___")
-print("Name:", s3.name)
-print("Age:", s3.age)
-print("Grade:", s3.grade)
-print("Section:", s3.section)
-print("Marks:", s3.marks)
 
 s1.update_grade(11)
 print("Updated Grade:", s1.grade)
