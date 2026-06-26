@@ -1,0 +1,33 @@
+------------------------------------------------------------
+NovaPay FinTech Pvt. Ltd.
+Customer Service Notification
+------------------------------------------------------------
+
+Date Issued: 26/06/2026
+Reference ID: NP-LOAN-2026-45821
+
+Dear Mr. Rahul Sharma,
+
+Your personal loan application has been successfully approved. The loan amount will be credited to your registered bank account within 2 working days.
+
+Customer Name: Rahul Sharma
+Registered Email: rahul.sharma@gmail.com
+Alternative Email: rahul.personal@yahoo.com
+
+For any loan-related assistance, please contact:
+Customer Support: support@novapay.com
+Loan Department: loans@novapay.com
+Escalation Team: escalation@novapay.com
+
+Customer Care Number: +91 98765 43210
+Alternate Contact: +91-91234-56789
+Office Helpline: 1800-123-4567
+
+Loan Approval Date: 26-06-2026
+EMI Start Date: 01/07/2026
+Document Verification Deadline: 2026-07-05
+
+Please submit any pending documents before the verification deadline. If you have any questions, write to support@novapay.com or call our customer care.
+
+Thank you,
+NovaPay FinTech Pvt. Ltd.
